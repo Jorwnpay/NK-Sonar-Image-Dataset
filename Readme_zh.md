@@ -1,6 +1,6 @@
 # NK-Sonar-Image-Dataset (NKSID)
 
-[Eng](https://github.com/Jorwnpay/NK-Sonar-Image-Dataset/Readme.md)|简体中文
+[Eng](https://github.com/Jorwnpay/NK-Sonar-Image-Dataset/blob/main/Readme.md)|简体中文
 
 这个仓库发布了一个全新的前视声纳图像识别基准测试，名为NanKai Sonar Image Dataset（NKSID）。该数据集包含来自8个类别的2617张图片，标签呈现自然的长尾分布。
 
