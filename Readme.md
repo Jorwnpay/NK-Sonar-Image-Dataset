@@ -1,5 +1,5 @@
 # NK-Sonar-Image-Dataset (NKSID)
-Eng|[简体中文](https://github.com/Jorwnpay/NK-Sonar-Image-Dataset/Readme_zh.md)
+Eng|[简体中文](https://github.com/Jorwnpay/NK-Sonar-Image-Dataset/blob/main/Readme_zh.md)
 
 This repo publishes a newly created forward-looking sonar image recognition benchmark, named NanKai Sonar Image Dataset (NKSID). This dataset contains 2617 images from 8 categories, with labels showing a natural long tail distribution. 
 
