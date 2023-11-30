@@ -12,7 +12,7 @@
 
 ### 使用方法
 
-直接从该仓库下载数据集，解压文件夹下的全部`.zip`压缩包。由于单个文件超过Github上传上限，我们将每个类别的图片都分别压缩，其中tire文件夹中包含两个压缩包，需要分别解压。 `train_abs.txt`保存了每张图片的相对路径和标签。 `kfold_train.txt`和`kfold_val.txt`保存了十次五折交叉验证的随机“训练集/验证集”划分方案，里面的数字$n$代表样本序号，对应样本在`train_abs.txt`中的第$n$行。 使用Demo：一个使用该数据集进行开放集长尾识别的仓库：[Jorwnpay/Sonar-OLTR (github.com)](https://github.com/Jorwnpay/Sonar-OLTR).
+直接从该仓库下载数据集，解压文件夹下的全部`.zip`压缩包。由于单个文件超过Github上传上限，我们将每个类别的图片都分别压缩，其中tire文件夹中包含两个压缩包，需要分别解压。 `train_abs.txt`保存了每张图片的相对路径和标签。 `kfold_train.txt`和`kfold_val.txt`保存了十次五折交叉验证的随机“训练集/验证集”划分方案，里面的数字 $n$ 代表样本序号，对应样本在`train_abs.txt`中的第 $n$ 行。 使用Demo：一个使用该数据集进行开放集长尾识别的仓库：[Jorwnpay/Sonar-OLTR (github.com)](https://github.com/Jorwnpay/Sonar-OLTR).
 
 ### Citation
 
