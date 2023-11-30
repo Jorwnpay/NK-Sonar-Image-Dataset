@@ -15,7 +15,7 @@ Download the dataset directly from the repository and unzip all `.zip` files in 
 
 `train_abs.txt` contains the relative paths and labels for each image.
 
-`kfold_train.txt` and `kfold_val.txt` store the random "training set/validation set" splits for ten-fold cross-validation. The number $n$ inside represents the sample index, corresponding to the $n$th line in `train_abs.txt`.
+`kfold_train.txt` and `kfold_val.txt` store the random "training set/validation set" splits for ten-fold cross-validation. The number $n$ inside represents the sample index, corresponding to the $n$ th line in `train_abs.txt`.
 
 Demo Usage: A repository demonstrating open-set long-tail recognition using this dataset can be found at [Jorwnpay/Sonar-OLTR (github.com)](https://github.com/Jorwnpay/Sonar-OLTR).
 
