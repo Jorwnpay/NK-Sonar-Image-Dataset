@@ -19,6 +19,13 @@
 本数据集涉及到的论文正在接受审查，如果该数据集对您有用，请考虑引用我们：
 
 ```latex
-TODO...
+@article{jiao2024open,
+  title={Open-set recognition with long-tail sonar images},
+  author={Jiao, Wenpei and Zhang, Jianlei and Zhang, Chunyan},
+  journal={Expert Systems with Applications},
+  pages={123495},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 
