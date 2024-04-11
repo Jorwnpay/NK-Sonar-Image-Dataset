@@ -21,7 +21,7 @@ Demo Usage: A repository demonstrating open-set long-tail recognition using this
 
 ### Citation
 
-The paper associated with this dataset is currently under review. If the dataset proves valuable for your work, please consider citing our paper:
+If the dataset proves valuable for your work, please consider citing our paper:
 
 ```latex
 @article{jiao2024open,
